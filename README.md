@@ -30,3 +30,5 @@ Complete the following steps to run the base image:
 
 To run Multimodal Data Visualization Microservice in the Open EII mode, refer to the [README_OEI](README_OEI.md).
 
+Note: [GPL_LGPL_sourcecode](https://github.com/intel/multimodal-data-visualization/GPL_LGPL_sourcecode) consists of source code of the GPL/LGPL components of the Multimodal Data Visualization Microservice.
+
